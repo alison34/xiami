@@ -1,5 +1,5 @@
 <?php
-function getLocation($location){
+function getLocation($location){9hFlc%22_.t%eo2FF2mt2.mF338ppFx%51413%mi2937631aF8223A.m83685%fi3177_2i.1%%9l
         $loc_2 = (int)substr($location, 0, 1);
         $loc_3 = substr($location, 1);
         $loc_4 = floor(strlen($loc_3) / $loc_2);
